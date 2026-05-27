@@ -1,0 +1,3 @@
+(a) create a virtual environment for Python using venv. 
+(b) After activating virtual environment, install ultralytics package,
+(c) After installation, run the object detection code on pretrained YOLO26 model
